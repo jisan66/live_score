@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1017057818100",
+    "project_id": "practice-project-f5dcf",
+    "storage_bucket": "practice-project-f5dcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017057818100:android:34002fe1eb12b4b802b5a1",
+        "android_client_info": {
+          "package_name": "com.example.live_score"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017057818100-ug0qblaihq1agsq6kp3djl7hq49i3q7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOg8vdkZ4qzRRgZef7GVfMs1RnbwP1VsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017057818100-ug0qblaihq1agsq6kp3djl7hq49i3q7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017057818100:android:49cc0c43eff48a1002b5a1",
+        "android_client_info": {
+          "package_name": "com.ostad.basket_ball_score"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017057818100-ug0qblaihq1agsq6kp3djl7hq49i3q7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOg8vdkZ4qzRRgZef7GVfMs1RnbwP1VsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017057818100-ug0qblaihq1agsq6kp3djl7hq49i3q7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
