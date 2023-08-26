@@ -1,6 +1,6 @@
 # live_score
 
-This a Live Score showing project using firebase and push notification
+This a Live Score showing project using firebase
 
 ## Getting Started
 
